@@ -58,6 +58,4 @@ def game():
             return
         elif guess != answer:
             print("Guess again.")
-
-
 game()
